@@ -30,7 +30,9 @@ Organize tasks with different categories or tags.
 
 # Technologies Used
 JavaScript
+
 HTML
+
 CSS
 
 # Installation
