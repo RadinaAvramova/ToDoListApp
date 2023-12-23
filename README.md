@@ -25,7 +25,9 @@ The Todo List App is a task management web application that helps users keep tra
 
 # Features
 Add, edit, and delete tasks.
+
 Mark tasks as completed.
+
 Organize tasks with different categories or tags.
 
 # Technologies Used
